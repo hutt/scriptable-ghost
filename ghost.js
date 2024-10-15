@@ -4,7 +4,7 @@
 // ===============================
 // Scriptable Widget for Ghost CMS
 // by Jannis Hutt
-// get the latest version here: https://github.com/hutt/scriptable-ghost/
+// get the latest version here: https://github.com/hutt/scriptable-ghost-widget/
 // ===============================
 
 const crypto = importModule('crypto-min.js');
